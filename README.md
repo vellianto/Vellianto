@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi, I'm Stas! 👋
 
-<!--
-**vellianto/Vellianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
+Developer and digital creator. I build software that works as well as it looks. 
+Passionate about animation, music production, and finding efficient solutions to complex problems.
 
-Here are some ideas to get you started:
+ 🛠 What I'm currently working on:
+- Learning modern development stacks.
+- Optimizing digital experiences and creating high-quality tools.
+- Actively developing my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Let's connect:
+- [TikTok](https://www.tiktok.com/@vellianto)
+
+Line by line, towards a big goal.
