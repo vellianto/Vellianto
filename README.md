@@ -12,4 +12,4 @@ Passionate about animation, music production, and finding efficient solutions to
  🚀 Let's connect:
 - [TikTok](https://www.tiktok.com/@vellianto)
 
-Line by line, towards a big goal.
+Line by line, towards a big goal:)
