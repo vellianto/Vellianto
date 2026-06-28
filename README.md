@@ -2,7 +2,6 @@
 
  About Me
 Developer and digital creator. I build software that works as well as it looks. 
-Passionate about animation, music production, and finding efficient solutions to complex problems.
 
  🛠 What I'm currently working on:
 - Learning modern development stacks.
